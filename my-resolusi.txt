@@ -3,4 +3,4 @@ my resolusi
 - belajar back end dan pengenalan android dev semester 2
 - semester tiga sudah bisa membuat web utuh dan android dasar
 - semester tiga mengrjakan project atau mengikuti lomba di bidang web
-- semester tiga mempelajari android tingkat lanjut
+- semester empat fokus melakukkan apa yang bisa dilakukkan web dev
