@@ -1,4 +1,5 @@
 my resolusi 
+- magang secepat mungkin
 - belajar front end semester 1
 - belajar back end dan pengenalan android dev semester 2
 - semester tiga sudah bisa membuat web utuh dan android dasar
